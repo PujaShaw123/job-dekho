@@ -1,0 +1,6 @@
+# FILES REQUIRED TO BE LEFT UNTRACKED BY GIT
+
+*.pyc
+**/__pycache__/**
+**/node_modules/**
+venv
